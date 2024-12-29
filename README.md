@@ -11,7 +11,7 @@ The **Calendar Application for Communication Tracking** is a React-based solutio
 ### Admin Module
 - **Company Management**:
   - Add, edit, and delete companies.
-  - Store details like name, location, LinkedIn profile, email addresses, phone numbers, comments, and default communication periodicity.
+  - Company details like name, location, LinkedIn profile, email addresses, phone numbers and comments.
 
 - **Communication Method Management**:
   - Define communication methods with properties like name, description, sequence, and mandatory status.
@@ -38,12 +38,10 @@ The **Calendar Application for Communication Tracking** is a React-based solutio
 - **Calendar View**:
   - View past and upcoming communications in a calendar format.
 
-### Reporting and Analytics Module (Optional)
+### Reporting and Analytics Module 
 - Communication frequency reports.
 - Engagement effectiveness dashboard.
 - Overdue communication trends.
-- Downloadable reports in PDF/CSV format.
-- Real-time activity log.
 
 ---
 
